@@ -1,19 +1,19 @@
-.MMM-Wallpaper .wallpaper {
+.MMM-Wallpaper2 .wallpaper {
   position: fixed;
   left: 50%;
   top: 50%;
   transform: translateX(-50%) translateY(-50%);
 }
 
-.MMM-Wallpaper .tall {
+.MMM-Wallpaper2 .tall {
   width: 100%;
 }
 
-.MMM-Wallpaper .wide {
+.MMM-Wallpaper2 .wide {
   height: 100%;
 }
 
-.MMM-Wallpaper .title {
+.MMM-Wallpaper2 .title {
   position: absolute;
   right: 25px;
   bottom: 25px;
