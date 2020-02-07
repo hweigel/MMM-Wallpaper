@@ -4,6 +4,7 @@ Module.register("MMM-Wallpaper2", {
   // Default module config
   defaults: {
     source: "bing",
+    market: "en-US",
     updateInterval: 60 * 60 * 1000,
     slideInterval: 5 * 60 * 1000,
     maximumEntries: 10,
