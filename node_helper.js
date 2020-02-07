@@ -114,7 +114,7 @@ module.exports = NodeHelper.create({
       });
     } else {
       self.request(config, {
-        url: fmt("https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n={}", config.maximumEntries),
+        url: fmt("https://www.bing.com/HPImageArchive.aspx?format=js&mkt=en-US&idx=0&n={}", config.maximumEntries),
       });
     }
   },
