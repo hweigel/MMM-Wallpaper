@@ -1,6 +1,6 @@
 // MMM-Wallpaper.js
 
-Module.register("MMM-Wallpaper", {
+Module.register("MMM-Wallpaper2", {
   // Default module config
   defaults: {
     source: "bing",
@@ -16,7 +16,7 @@ Module.register("MMM-Wallpaper", {
   },
 
   getStyles: function() {
-    return ["MMM-Wallpaper.css"];
+    return ["MMM-Wallpaper2.css"];
   },
 
   start: function() {
